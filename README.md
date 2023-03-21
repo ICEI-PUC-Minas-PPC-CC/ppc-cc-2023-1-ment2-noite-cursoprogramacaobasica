@@ -1,20 +1,21 @@
-# TÍTULO DO PROJETO
+# Curso de programação básica
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
+`Disciplina: Mentoring II`
 `2023 - Semestre 02`
 
 ## Integrantes
 
-- Gabriel Andrade
-- João Henrique
-- Vinicius Penido
-- Felipe Mareca
-- Guilherme Andrade
+- Felipe Mareca de Souza Bessoni
+- Gabriel Andrade Euzebio
+- Guilherme Andrade Chaves
+- João Henrique dos Santos Ferreira
+- Vinicius Henrique Muniz Penido
 
 ## Professor
 
-- Mestre Yoda
+- Luciana de Nardin
+- Luis Gustavo Fogaroli
 
 # Documentação
 
