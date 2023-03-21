@@ -8,7 +8,7 @@ O problema que esse projeto visa solucionar é a falta de recursos acessíveis p
 
 ## Objetivos
 
-Os objetivos deste projeto são fornecer aos alunos uma compreensão sólida dos fundamentos da programação e da linguagem C. Os alunos aprenderão a escrever programas simples, a entender a lógica por trás da programação e a solucionar problemas de programação. O curso também visa preparar os alunos para projetos mais complexos e para avançar em sua carreira de programação.
+Os objetivos deste projeto são fornecer aos alunos uma compreensão sólida dos fundamentos da programação e da linguagem C. Os alunos aprenderão a escrever programas simples e entender a lógica por trás da programação. Ao final do curso, espera-se que os participantes tenham adquirido as habilidades básicas necessárias para continuar estudando programação e explorar outras linguagens, além de despertar o interesse dos participantes pela área de tecnologia e computação.
 
 ## Justificativa
 
@@ -16,4 +16,4 @@ Ensinar programação em C para adolescentes é importante, pois proporciona uma
 
 ## Público-Alvo
 
-No caso do curso de programação em C para adolescentes, os beneficiários diretos serão os próprios adolescentes que participarão do curso. Espera-se que estes adolescentes tenham interesse em tecnologia, computação e programação, mas não necessariamente tenham conhecimentos prévios na área. Os perfis dos adolescentes participantes podem ser alunos de escolas públicas e privadas.
+No caso do curso de programação em C, os beneficiários diretos serão os próprios adolescentes que participarão do curso. Espera-se que estes adolescentes tenham interesse em tecnologia, computação e programação, mas não necessariamente tenham conhecimentos prévios na área. Os perfis dos adolescentes participantes podem ser alunos de escolas públicas e privadas.
