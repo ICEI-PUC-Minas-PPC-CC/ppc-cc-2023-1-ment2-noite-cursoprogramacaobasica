@@ -1,43 +1,21 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto é um curso básico de programação em C, que tem ideia de ajudar adolescentes a aprender a programar de forma acessível e fácil. O objetivo é fornecer aos alunos uma compreensão sólida dos fundamentos da programação e da linguagem C, preparando-os para projetos mais complexos e para avançar em suas carreiras em programação. O público-alvo são adolescentes que desejam aprender a programar na linguagem C, para desenvolver suas habilidades em tecnologia e para futuramente buscar uma carreira na área.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O problema que esse projeto visa solucionar é a falta de recursos acessíveis para aqueles que desejam aprender a programar na linguagem C. Muitas vezes, os recursos disponíveis para aprender programação podem ser caros ou difíceis de seguir, e isso pode desencorajar muitas pessoas a aprender. Este curso visa tornar a programação acessível e fácil de aprender para todos, independentemente de suas habilidades ou experiência prévia.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+Os objetivos deste projeto são fornecer aos alunos uma compreensão sólida dos fundamentos da programação e da linguagem C. Os alunos aprenderão a escrever programas simples, a entender a lógica por trás da programação e a solucionar problemas de programação. O curso também visa preparar os alunos para projetos mais complexos e para avançar em sua carreira de programação.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+<> Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
-
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Ensinar programação em C para adolescentes é importante, pois proporciona uma oportunidade para desenvolver habilidades em uma área em constante crescimento, além de prepará-los para futuras carreiras na área de tecnologia. De acordo com a OIT (Organização Internacional de Trabalho), em 2022 a taxa brasileira aponta que mais de 23% da população entre 15 e 24 anos nem trabalha nem estuda. Fornecer aos adolescentes conhecimentos em programação pode ser uma alternativa viável para a inserção no mercado de trabalho, visto que a demanda por desenvolvedores de software está em constante crescimento. Aprender programação em C é uma base sólida para aprender outras linguagens de programação e pode ajudar a inserir os adolescentes no mercado de trabalho.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+No caso do curso de programação em C para adolescentes, os beneficiários diretos serão os próprios adolescentes que participarão do curso. Espera-se que estes adolescentes tenham interesse em tecnologia, computação e programação, mas não necessariamente tenham conhecimentos prévios na área. Os perfis dos adolescentes participantes podem ser alunos de escolas públicas e privadas.
