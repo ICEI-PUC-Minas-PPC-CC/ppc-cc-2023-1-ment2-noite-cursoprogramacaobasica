@@ -1,26 +1,27 @@
+
 # Especificações do Projeto
 
 ## Personas
 
+|**Eduarda Andrade**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 16 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante.       |**Atribuições:** Estudante do Ensino Médio. 
+|**Motivações:** Escolher um curso para se profissionalizar mas com interesse em tecnologia.  |**Frustações:** Dificuldades em definir um método de aprendizado que mais se adequa a sua personalidade.   |**Hobbies, história:** Sonha em fazer diferença na vida das pessoas, mas não decide como seria a melhor forma de fazer isso e acredita que a tecnologia pode ser uma boa opção.
+
 |**Pedro Henrique**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-cursoprogramacaobasica/blob/main/docs/img/pedrohenrique.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
-
-|**Camila Fiães**|           |                             | 
-|-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-cursoprogramacaobasica/blob/main/docs/img/pedrohenrique.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Empresário.      |**Atribuições:** Dono de uma pequena empresa de tecnologia na área de aplicativos Mobile. 
+|**Motivações:** Crescer sua empresa de forma desconstruida e inovadora tornando um ambiente agradável a todos que estejam aptos. |**Frustações:** Com o déficit de profissionais na área tem sido difícil se manter animado mas está sempre pensa em ajudar novos profissionais na área   |**Hobbies, história:** Almeja realizar todos os objetivos mas sabe que é uma tarefa difícil e está em busca de um bom time para evoluir sua empresa.
 
 ## Histórias de Usuários
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... | QUERO/PRECISO ...  |PARA ...                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Pedro Henrique | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
-|Pedro Henrique | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Pedro Henrique | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
+|Pedro Henrique | Profissionais recém formados.  | Dar oportunidade as pessoas. |
+|Pedro Henrique | Crescer sua empresa no ramo. | Alcançar seus objetivos. |
+|Pedro Henrique | Ter um bom time e estrutura. | Tornar a empresa um ambiente mais agradável. |
+|Eduarda Andrade | Definir uma área vocacional. | Para se tornar uma profissional. |
+|Eduarda Andrade | Aprender de forma mais efetiva. | Para facilitar seus objetivos. |
+|Eduarda Andrade | Definir como ajudar pessoas | Impactar na vida das pessoas. |
