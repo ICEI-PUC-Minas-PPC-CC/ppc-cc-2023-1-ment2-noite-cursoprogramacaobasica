@@ -12,7 +12,7 @@ Os objetivos deste projeto são fornecer aos alunos uma compreensão sólida dos
 
 ## Justificativa
 
-Ensinar programação em Python para adolescentes é importante, pois proporciona uma oportunidade para desenvolver habilidades em uma área em constante crescimento, além de prepará-los para futuras carreiras na área de tecnologia. De acordo com a OIT (Organização Internacional de Trabalho), em 2022 a taxa brasileira aponta que mais de 23% da população entre 15 e 24 anos nem trabalha nem estuda [1]. Fornecer aos adolescentes conhecimentos em programação pode ser uma alternativa viável para a inserção no mercado de trabalho, visto que a demanda por desenvolvedores de software está em constante crescimento. Aprender programação em Python é uma base sólida para aprender outras linguagens de programação e pode ajudar a inserir os adolescentes no mercado de trabalho.
+Ensinar programação em Python para adolescentes é importante, pois proporciona uma oportunidade para desenvolver habilidades em uma área em constante crescimento, além de prepará-los para futuras carreiras na área de tecnologia. De acordo com a OIT (Organização Internacional de Trabalho), em 2022 a taxa brasileira aponta que mais de 23% da população entre 15 e 24 anos nem trabalha nem estuda [1].Segundo a instituição Brasscom a demanda na área da tecnologia aponta demanda de 797 mil profissionais de tecnologia até 2025 [2]. Fornecemos aos adolescentes conhecimentos em programação pode ser uma alternativa viável para a inserção no mercado de trabalho, visto que a demanda por desenvolvedores de software está em constante crescimento.
 
 ## Público-Alvo
 
