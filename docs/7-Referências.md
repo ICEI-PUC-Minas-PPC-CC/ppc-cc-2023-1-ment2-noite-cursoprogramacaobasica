@@ -6,12 +6,10 @@ As referências deverão ser apresentadas aqui, na ordem em que elas aparecem, n
 
 Exemplos de referências:
 
-[1] ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001. 
+[1] CHADE, Jamil. Um em cada quatro jovens brasileiros não trabalha nem estuda, diz OIT (Organização Internacional do Trabalho). In: Portal Uol. São Paulo, 11 Ago. 2022.
+Disponível em: https://noticias.uol.com.br/colunas/jamil-chade/2022/08/11/um-a-cada-quarto-jovens-brasileiros-nao-trabalha-e-nem-estuda-diz-oit.htm#:~:text=%22No%20entanto%2C%201%20em%20cada,14%2C9%25%20em%202022/.
+Acesso em: 21 mar. 2023.
 
-[2] CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
-
-> **Links Úteis**:
-> - [Normas ABNT PUC Minas](http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
-
+[2] BRASSCOM. Estudo da Brasscom aponta demanda de 797 mil profissionais de tecnologia até 2025. 
+Disponívem em: https://brasscom.org.br/estudo-da-brasscom-aponta-demanda-de-797-mil-profissionais-de-tecnologia-ate-2025/
+Acesso em: 21 mar. 2023.
