@@ -7,7 +7,7 @@
 ## Integrantes
 
 - Felipe Mareca de Souza Bessoni
-- Gabriel Andrade Euzebio
+- Mateus Boletta Gonçalves
 - Guilherme Andrade Chaves
 - João Henrique dos Santos Ferreira
 - Vinicius Henrique Muniz Penido
