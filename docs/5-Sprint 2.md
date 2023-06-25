@@ -25,3 +25,14 @@ Quaisquer dúvidas, me escrevam.
 |1| Primeiros passos e exercícios em Python: variáveis, operadores aritmétcos, input/output | 45 minutos | 20/06 |
 |2| Estrutura de condição: if,elif e else   | 1 hora | 22/06 |
 |2| Desenvolvimento do projeto final: Calculadora| 40 minutos | 22/06 |
+
+## Material Preparado
+
+https://www.canva.com/design/DAFk9ADnShk/fM6Rdxz_LZS8q9xC3DI4Sw/edit?utm_content=DAFk9ADnShk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Material Usado
+
+https://www.canva.com/design/DAFm3DzYM4M/O_bhAJEiIyltzQi08kQWPw/edit?utm_content=DAFm3DzYM4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Registro Fotográfico
+
