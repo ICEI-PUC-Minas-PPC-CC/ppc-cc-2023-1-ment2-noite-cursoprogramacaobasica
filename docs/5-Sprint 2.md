@@ -35,4 +35,8 @@ https://www.canva.com/design/DAFk9ADnShk/fM6Rdxz_LZS8q9xC3DI4Sw/edit?utm_content
 https://www.canva.com/design/DAFm3DzYM4M/O_bhAJEiIyltzQi08kQWPw/edit?utm_content=DAFm3DzYM4M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Registro Fotográfico
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-cursoprogramacaobasica/blob/main/docs/img/Image1.jpeg"/>
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-cursoprogramacaobasica/blob/main/docs/img/Image2.jpeg"/>
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-cursoprogramacaobasica/blob/main/docs/img/Image3.jpeg"/>
 
+## Relatório de participação dos alunos
