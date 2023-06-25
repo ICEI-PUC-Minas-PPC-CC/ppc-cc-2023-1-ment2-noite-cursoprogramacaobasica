@@ -38,6 +38,10 @@ https://www.canva.com/design/DAFm3DzYM4M/O_bhAJEiIyltzQi08kQWPw/edit?utm_content
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-cursoprogramacaobasica/blob/main/docs/img/Image1.jpeg"/>
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-cursoprogramacaobasica/blob/main/docs/img/Image2.jpeg"/>
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-cursoprogramacaobasica/blob/main/docs/img/Image3.jpeg"/>
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-cursoprogramacaobasica/blob/main/docs/img/Image4.jpg"/>
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-cursoprogramacaobasica/blob/main/docs/img/Image5.jpg"/>
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-cursoprogramacaobasica/blob/main/docs/img/Image6.jpg"/>
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-cursoprogramacaobasica/blob/main/docs/img/Image7.jpg"/>
 
 ## Relatório de participação dos alunos
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-cursoprogramacaobasica/blob/main/docs/img/Relatorio_de_Alunos_1.jpg"/>
